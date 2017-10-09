@@ -5,6 +5,7 @@
     "browser" : true,
     "webextensions": true
   },
+  "plugins": ["react"],
   "parser": "babel-eslint",
   "parserOptions": {
     "ecmaFeatures": {
